@@ -213,5 +213,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author - Akash Tiwari
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/akash-tiwari-044a03249)
+- **LinkedIn**: www.linkedin.com/in/akash-tiwari-044a03249
 
